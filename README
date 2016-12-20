@@ -1,0 +1,4 @@
+This script downloads all public openstack/* repositories,
+merges all commits and visualizes them with gource.io
+
+See the latest result here: https://www.youtube.com/watch?v=Rk7EImAj3VM
